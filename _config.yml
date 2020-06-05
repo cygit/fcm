@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
-title: Focused Concept Miner (FCM) - Interpretable Deep Learning for Text Exploration
+title: "Focused Concept Miner (FCM): Interpretable Deep Learning for Text Exploration"
 description: Code and example use cases coming soon
+github:
+  is_project_page: false
