@@ -1,3 +1,5 @@
+
+![FCM Features](pic/focused.png)
 ## [Download the paper](https://www.ssrn.com/abstract=3304756) 
 
 #### [Dokyun "DK" Lee](https://www.dlforbusiness.com), Emaad Manzoor, Zhaoqi Cheng
@@ -6,7 +8,6 @@ We introduce the Focused Concept Miner (FCM), an interpretable deep learning tex
 
 **Keywords**: Interpretable Machine Learning, Deep Learning, Text Mining, Automatic Concept Extraction, Coherence, Transparent Algorithm, Augmented Hypothesis Development, XAI 
 
-![FCM Features](pic/focused.png)
 
 ![Concept Mining Flowchart](pic/fcmflow.png)
 
