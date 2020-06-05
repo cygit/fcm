@@ -7,5 +7,5 @@ Keywords: Interpretable Machine Learning, Deep Learning, Text Mining, Automatic 
 
 ![FCM Features](pic/focused.png)
 
-![Concept Mining Flowchart](pic/fcmflow.pdf)
+![Concept Mining Flowchart](pic/fcmflow.png)
 
