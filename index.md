@@ -1,19 +1,10 @@
-## Welcome to GitHub Pages
+## Focused Concept Miner
 
-You can use the [editor on GitHub](https://github.com/cygit/fcm/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Download the paper [FCM](https://www.ssrn.com/abstract=3304756) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+![FCM Features](https://github.com/cygit/fcm/blob/master/pic/focused.png)
 
 - Bulleted
 - List
