@@ -1,6 +1,5 @@
 # Focused Concept Miner Command Line Interface <br>User Guide and Demonstration
 By [Eric Zhou](https://ericbzhou.github.io/)<br>
-Carnegie Mellon University
 
 **Version**: September 2020
 ------
