@@ -3,12 +3,8 @@ By [Eric Zhou](https://ericbzhou.github.io/)<br>
 
 **Version**: September 2020
 ------
-
-Find the [Focused Concept Miner Command Line Interface](https://github.com/cygit/fcm) files here.
-
-------
 ## About
-We present the Focused Concept Miner (FCM) Command Line Interface (CLI), an exploratory tool which operationalizes an interpretable, deep learning-based text mining algorithm such that managers and researchers can accessibly analyze high-resolution unstructured data. This is specifically designed to be accessible for managers and researchers with or without a technical background. For more information about FCM CLI, please visit [FCMiner](http://www.fcminer.com/).
+We present the Focused Concept Miner (FCM) Command Line Interface (CLI), an exploratory tool which operationalizes an interpretable, deep learning-based text mining algorithm such that managers and researchers can accessibly analyze high-resolution unstructured data. This is specifically designed to be accessible for managers and researchers with or without a technical background.
 
 In this guide, we provide a step-by-step guide on setup, features, implementation, and troubleshooting of FCM CLI. We also discuss a general approach to explore data and filter results to obtain meaningful insights using FCM's __Grid Search__ and __Visualize__ features.
 
